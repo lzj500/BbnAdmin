@@ -1,6 +1,6 @@
 {
   "name": "itbbn/admin",
-  "license": "Apache",
+  "license": "proprietary",
   "autoload": {
     "psr-4": {
       "itbbn\\admin\\": "src/"
