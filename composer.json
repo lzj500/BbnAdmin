@@ -1,0 +1,19 @@
+{
+  "name": "itbbn/admin",
+  "license": "Apache",
+  "autoload": {
+    "psr-4": {
+      "itbbn\\admin\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "lzj500",
+      "email": "lzj500@qq.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.2",
+    "topthink/think-orm": "^2.0"
+  }
+}
